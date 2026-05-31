@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Developer Script Share",
+  "description": "Anonymous social media and code sharing platform for Roblox developers. Save and color-code Luau scripts with Classic Studio themes, language toggles, and reactive feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
